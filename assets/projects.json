@@ -1,0 +1,128 @@
+[
+    {
+        "color": "#001736",
+        "title": "Насінневий завод «Sreed Corp»",
+        "text": "м. Гельмязів",
+        "image": "project-1.jpg",
+        "mod": ""
+    },
+    {
+        "color": "#445066",
+        "title": "Насінневий завод «Monsanto»",
+        "text": "м. Почуйки",
+        "image": "project-2.jpg",
+        "mod": ""
+    },
+    {
+        "color": "#fff",
+        "title": "Готельно-ресторанний комплекс Riverwood",
+        "text": "м. Мошни",
+        "image": "project-3.jpg",
+        "mod": "project--dark"
+    },
+    {
+        "color": "#001736",
+        "title": "Овочесховище",
+        "text": "м. Вергуни",
+        "image": "project-4.jpg",
+        "mod": ""
+    },
+    {
+        "color": "#000",
+        "title": "Завод мінераловатних плит «Ізоват»",
+        "text": "м. Житомир",
+        "image": "project-5.jpg",
+        "mod": ""
+    },
+    {
+        "color": "#445066",
+        "title": "Бісквітний завод «Roshen»",
+        "text": "м. Бориспіль",
+        "image": "project-6.jpg",
+        "mod": ""
+    },
+    {
+        "color": "#fff",
+        "title": "ЖК Оптимісто",
+        "text": "м. Гатне",
+        "image": "project-7.jpg",
+        "mod": "project--dark"
+    },
+    {
+        "color": "#001736",
+        "title": "Лабораторія біоплазми «Біофарма»",
+        "text": "м. Біла Церква",
+        "image": "project-8.jpg",
+        "mod": ""
+    },
+    {
+        "color": "#000",
+        "title": "Гофро-картонний завод",
+        "text": "м. Вінниця",
+        "image": "project-9.jpg",
+        "mod": ""
+    },
+    {
+        "color": "#445066",
+        "title": "Цементний термінал заводу CRH",
+        "text": "м. Вишневе",
+        "image": "project-10.jpg",
+        "mod": ""
+    },
+    {
+        "color": "#fff",
+        "title": "Амбулаторія",
+        "text": "м. Макаров",
+        "image": "project-11.jpg",
+        "mod": "project--dark"
+    },
+    {
+        "color": "#445066",
+        "title": "Склад готової продукції",
+        "text": "м. Вінниця",
+        "image": "project-12.jpg",
+        "mod": ""
+    },
+    {
+        "color": "#006BFF",
+        "title": "ТРЦ «Волна»,",
+        "text": "м. Южне",
+        "image": "project-13.jpg",
+        "mod": ""
+    },
+    {
+        "color": "#000",
+        "title": "Перинатальний центр",
+        "text": "м. Луцьк",
+        "image": "project-14.jpg",
+        "mod": ""
+    },
+    {
+        "color": "#445066",
+        "title": "Щебеневі  заводи",
+        "text": "м. Коростень",
+        "image": "project-15.jpg",
+        "mod": ""
+    },
+    {
+        "color": "#fff",
+        "title": "Насінневі термінали «Нібулон»",
+        "text": "м. Запоріжжя",
+        "image": "project-16.jpg",
+        "mod": "project--dark"
+    },
+    {
+        "color": "#006BFF",
+        "title": "Лізиновий завод «Ерідон»",
+        "text": "м. Яготин",
+        "image": "project-17.jpg",
+        "mod": ""
+    },
+    {
+        "color": "#001736",
+        "title": "«Епіцентр»",
+        "text": "в багатьох містах України",
+        "image": "project-18.jpg",
+        "mod": ""
+    }
+]
